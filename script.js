@@ -284,7 +284,7 @@ function addMessage(text, sender = 'bot') {
 }
 
 function initChat() {
-    addMessage("Hi there! 👋 I'm VroommBot.");
+    addMessage("Hi there! I'm RevBot.");
     setTimeout(() => addMessage("I can estimate your ROI instantly. What industry are you in? (e.g. Fintech, SaaS)"), 800);
 }
 
